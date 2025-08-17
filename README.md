@@ -16,13 +16,9 @@ This project was created while learning the fundamentals of C# and .NET framewor
 1. Install [Visual Studio](https://visualstudio.microsoft.com/) with *.NET Framework*.  
 2. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/StudentRecordProject.git
-   3. Open the project in Visual Studio.
-
-
+   git clone https://github.com/<your-username>/StudentRecordProject.git 
+3. Open the project in Visual Studio.
 4. Run the application (press Ctrl + F5).
-
-
 
 
 ---
